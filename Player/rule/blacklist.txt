@@ -1,7 +1,8 @@
 {
-    "version": 43, 
+    "version": 44, 
     "list": [
         "//cb.baidu.com", 
+        "//etg.qq.com", 
         "//x.jd.com", 
         "//pos.baidu.com", 
         "//inte.sogou.com", 
