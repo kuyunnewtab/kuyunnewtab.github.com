@@ -1,7 +1,8 @@
 {
-    "version": 44, 
+    "version": 45, 
     "list": [
         "//cb.baidu.com", 
+        "//tad.suning.com",
         "//etg.qq.com", 
         "//x.jd.com", 
         "//pos.baidu.com", 
