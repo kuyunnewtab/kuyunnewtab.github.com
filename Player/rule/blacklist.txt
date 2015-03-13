@@ -1,5 +1,5 @@
 {
-    "version": 46, 
+    "version": 47, 
     "list": [
         "//cb.baidu.com", 
         "//tad.suning.com",
@@ -60,15 +60,12 @@
         "(//|.)kankanews.com/flash/PreAdLoader.swf", 
         "(//|.)vd.kankanews.com", 
         "(//|.)ubmcmm.baidustatic.com", 
-        "(//|.)taobao.com/go/app/tmall/login-api.php", 
-        "(//|.)tmatch.simba.taobao.com/?name=mcad", 
         "(//|.)jd.com/exsites?spread_type=", 
         "(//|.)wa.gtimg.com", 
         "(//|.)googleadsl.com", 
         "(//|.)doubleclick.net/adj/ftd-rubriken", 
         "(//|.)doubleclick.net/pagead/ads?", 
         "(//|.)flashline.cn/d/js/acmsd/thea10.js", 
-        "(//|.)taobao.com/go/", 
         "//www.woxiu.com/xapi/offsite_swf_more.php?ver=[0-9]*", 
         "//www.woxiu.com/xapi/offsite_swf_api.php", 
         "//www.56.com/flashApp/woxiu_open_ctrl_ui_site/right_panel/", 
@@ -103,5 +100,5 @@
         "//img.xcy8.com/union/", 
         "(//|.).*.adpush.cn/ap/"
     ], 
-    "lasttime": 1401099066742
+    "lasttime": 1401099066743
 }
