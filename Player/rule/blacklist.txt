@@ -1,5 +1,5 @@
 {
-    "version": 45, 
+    "version": 46, 
     "list": [
         "//cb.baidu.com", 
         "//tad.suning.com",
@@ -60,9 +60,6 @@
         "(//|.)kankanews.com/flash/PreAdLoader.swf", 
         "(//|.)vd.kankanews.com", 
         "(//|.)ubmcmm.baidustatic.com", 
-        "(//|.)a.tbcdn.cn/s/ac.js", 
-        "(//|.)a.tbcdn.cn/s/atp.js", 
-        "(//|.)a.tbcdn.cn/s/atp.js", 
         "(//|.)taobao.com/go/app/tmall/login-api.php", 
         "(//|.)tmatch.simba.taobao.com/?name=mcad", 
         "(//|.)jd.com/exsites?spread_type=", 
@@ -106,5 +103,5 @@
         "//img.xcy8.com/union/", 
         "(//|.).*.adpush.cn/ap/"
     ], 
-    "lasttime": 1401099066741
+    "lasttime": 1401099066742
 }
